@@ -2200,9 +2200,9 @@ textarea.w-input, textarea.w-select {
 	text-align: center;
 	border-bottom: 3px dashed #fff;
 	border-right: 1px #000;
-	width: 70%;
-	min-width: 300px;
-	max-width: 80em;
+	width: 30vw;
+	min-width: 2em;
+	max-width: 15em;
 	height: 1px;
 }
 
