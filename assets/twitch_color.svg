@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="600"
+   height="700"
+   viewBox="0 0 12 14"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="twitch_color.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.06875"
+     inkscape:cx="400.46784"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     fill="#ffffff"
+     d="m 11,6.5 -2,2 H 7 L 5.25,10.25 V 8.5 H 3 V 1 h 8 z"
+     id="path1" />
+  <g
+     fill="#9146ff"
+     id="g3"
+     transform="translate(-2,-1)">
+    <path
+       d="M 4.5,1 2,3.5 v 9 H 5 V 15 l 2.5,-2.5 h 2 L 14,8 V 1 Z m 8.5,6.5 -2,2 H 9 L 7.25,11.25 V 9.5 H 5 V 2 h 8 z"
+       id="path2" />
+    <path
+       d="m 11.5,3.75 h -1 v 3 h 1 z m -2.75,0 h -1 v 3 h 1 z"
+       id="path3" />
+  </g>
+</svg>
