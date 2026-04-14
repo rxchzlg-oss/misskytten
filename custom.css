@@ -2218,6 +2218,10 @@ body {
 	display: flex;
 }
 
+.no-select {
+	user-select: none;
+}
+
 .text-block {
 	font-size: 3em;
 }
